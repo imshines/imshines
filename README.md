@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, NodeJS, Laravel, MySQL 🤯
 - 👯 I’m looking to collaborate on Some React based projects
 - 🤔 I’m looking for help with learning MERN Stack
-- 📫 How to reach me: <a>mohankumar.live</a>
+- 📫 How to reach me: https://mohankumar.live
 
 <!--
 **imshines/imshines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
