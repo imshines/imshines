@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with learning Backend (Laravel, Nodejs, Databases)
 - 📫 How to reach me: https://mohankumar.live
 
-[![Mohan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=imshines)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=imshines)]
 
 <!--
 **imshines/imshines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
