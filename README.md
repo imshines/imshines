@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with learning Backend (Laravel, Nodejs, Databases)
 - 📫 How to reach me: https://mohankumar.live
 
-![Mohan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=imshines)
+![Mohan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=imshines&show_icons=true&theme=tokyonight)
