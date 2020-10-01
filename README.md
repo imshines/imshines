@@ -8,9 +8,9 @@
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
 - Some of My Projects ❤
 
-http://www.mohankumar.live
-http://notes.mohankumar.live
-http://ecom.mohankumar.live
-http://quotedaily.mohankumar.live
-http://share.mohankumar.live
+http://www.mohankumar.live <br />
+http://notes.mohankumar.live <br />
+http://ecom.mohankumar.live <br />
+http://quotedaily.mohankumar.live <br />
+http://share.mohankumar.live <br />
 http://poke.mohankumar.live
