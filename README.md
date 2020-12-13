@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with learning Backend (Nodejs, Databases)
 - 📫 How to reach me: https://mohankumar.live
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
+- 📜 I write at https://dev.to/imshines
 
 Some of My Projects ❤
 
@@ -15,4 +16,5 @@ http://ecom.mohankumar.live <br />
 http://quotedaily.mohankumar.live <br />
 http://share.mohankumar.live <br />
 http://poke.mohankumar.live <br />
-https://ourflix.netlify.app
+https://ourflix.netlify.app <br />
+https://react-weather-app-beta.vercel.app/
