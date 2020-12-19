@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with learning Backend (Nodejs, Databases)
 - 📫 How to reach me: https://mohankumar.live
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
-- 📜 I write at https://dev.to/imshines
+- 📜 I write at https://dev.to/imshines and https://imshines.hashnode.dev
 
 Some of My Projects ❤
 
