@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, NodeJS.
 - 👯 I’m looking to collaborate on Some React based projects.
 - 🧠 Looking for some project ideas.
-- 🤔 I’m looking for help with learning Backend (Nodejs, Databases)
+- 🤔 I’m looking for help to learn Backend.
 - 📫 How to reach me: https://mohankumar.live
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
 - 📜 I write at https://dev.to/imshines and https://imshines.hashnode.dev
