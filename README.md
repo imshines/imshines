@@ -15,6 +15,5 @@ http://awesome-notes.netlify.app <br />
 http://justees.netlify.app <br />
 http://quotedaily.netlify.app <br />
 http://share.netlify.app <br />
-http://poke.mohankumar.live <br />
 https://ourflix.netlify.app <br />
 https://react-weather-app-beta.vercel.app/
