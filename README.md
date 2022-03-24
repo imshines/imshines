@@ -2,7 +2,6 @@
 
 I write JavaScript and React ❤
 
-- 🌱 I’m currently learning NodeJS.
 - 📫 How to reach me: https://mohanblog.vercel.app
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
 - 📜 I write at https://dev.to/imshines and https://imshines.hashnode.dev
@@ -11,6 +10,7 @@ I write JavaScript and React ❤
 Some of My Projects ❤
 - 👯 I’m looking to collaborate on Some React based projects.
 - 🧠 Looking for some project ideas.
+- 🌱 I’m currently learning NodeJS.
 🤔 I’m looking for help to learn Backend. 
 http://mohanblog.vercel.app <br />
 http://awesome-notes.netlify.app <br />
