@@ -1,6 +1,8 @@
 ### Hi there! 👋
+#### Mohan here,
+##### I'm passionate about coding and computers 💖 
 
-I write JavaScript and React ❤
+I write JavaScript, React, Node extensively.
 
 - 📫 How to reach me: https://mohanblog.vercel.app
 - 📓 Making web dev posts at https://www.instagram.com/web.snips
